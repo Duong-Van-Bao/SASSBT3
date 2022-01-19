@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,IAAI;EACA,gBAAgB,EAFX,SAAS;;AAGlB,EAAE;EACE,gBAAgB,EAAE,SAAS;EAC3B,KAAK,EALA,SAAS;EAMd,OAAO,EAAE,IAAI",
+"sources": ["1.sass"],
+"names": [],
+"file": "1.css"
+}
